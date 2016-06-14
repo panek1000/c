@@ -31,6 +31,6 @@ def send_email(to, subject, body):
         ReplyToAddresses=[
             'p.panek1000@interia.pl',
         ],
-        ReturnPath='p.panek1000interia.pl'
+        ReturnPath='p.panek1000@interia.pl'
     )
     return response
