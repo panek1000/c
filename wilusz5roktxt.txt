@@ -1,0 +1,44 @@
+Klient gruby: Korzysta z dostêpnej mocy obliczeniowej 
+		|Serwer odpowiada za zarz¹dzanie danymi
+Java EE:=brak XML | potrzebna translacja |Brak specyfikacji RNI
+NoSQL: =/= systemy bankowe nie spe³nia ACID | Wydajny RAM | brak strukturalnego modelu
+Azure 2009 to PaaS
+Certyfikat : BIEGLI
+SmugMug: 2006 100 10prog
+Dass: przypomina kompa
+dSaaS>Virtualizacja>IaaS>PaaS> SaaS 
+	| Aplikacja (SaaS),Platforma (PaaS),Infrastruktura (IaaS),Wirtualizacja,Magazynowanie (dSaaS)
+IaaS dzieli sie na CaaS
+Citrix jest kluczowym graczem
+RackspaceCloud to IaaS  (256mb to 16GB RAM) |Brak SLA dla SERVERS
+REST (Representational State Transfer) NIE wymaga nag³ówka HTTP
+CDN(Content Delivery Network) - Vtravelled.com
+EBS - 750MB za ma³o
+Ile trybów wykonañobs³uguje sprzêt w warstwie ISA? 2
+CloudWatch nie podaje informacji o: RAM
+W systemie plików HDFS: Funkcjonuj¹ tylko dowi¹zania
+Servlet startuje po web.xml
+VMM- live migration (Hypervisor - wirtual maszine monitor) | najlepsze QEMU
+PUE - wspó³czynnik energetyczny okreœlaj¹cy wydajnoœæ centrum danych
+Fault Tolerance to: Projekt który utrzymuje system sprawnym przez ca³y czas
+Braver: dostêpnoœci,spójnoœci danych i tolerancji na partycjê sieci
+Strategii planowania pojemnoœci: JIT JIC JTL     \\| nie nale¿y JIB 
+Mashup: Czysty po stronie klienta
+G.ho.st nie daje pulpitu 
+Medotami ¿¹dañ nie s¹: SEND I CONTENT
+HMURY: publiczne,spo³ecznoœciowe (Community{Wspólnotowe} Cloud),hybrydowe,prywatne
+BCM: Business Continuity Management
+Testy Javy w programie: JUnit
+Amazon Elastic Block Store to: dodatkowy wolumin widoczny w instancji EC2
+JSONP pomaga w rozwi¹zaniu problemu: CORS
+ACID =  atomicity, consistency, isolation, durability
+SOA = Service oriented architecture
+dSaaS (Data-Storage-as-a-Service): zapewnia magazynowanie, w³¹czaj¹c w to wymagania pasma
+CORBA to : Zbiór standardów dla œródprogramów do obs³ugi architektur obiektów rozproszonych
+
+
+Do us³ug Amazon zwi¹zanych z chmur¹ nie nale¿y:
+a)SimpleDB
+b)CloudFront 
+c)SimpleFile32
+d)Simple Storage Service
