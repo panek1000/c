@@ -1,7 +1,7 @@
-Klient gruby: Korzysta z dostêpnej mocy obliczeniowej 
-		|Serwer odpowiada za zarz¹dzanie danymi
+Klient gruby: Korzysta z dostÄ™pnej mocy obliczeniowej 
+		|Serwer odpowiada za zarzÄ…dzanie danymi
 Java EE:=brak XML | potrzebna translacja |Brak specyfikacji RNI
-NoSQL: =/= systemy bankowe nie spe³nia ACID | Wydajny RAM | brak strukturalnego modelu
+NoSQL: =/= systemy bankowe nie speÅ‚nia ACID | Wydajny RAM | brak strukturalnego modelu
 Azure 2009 to PaaS
 Certyfikat : BIEGLI
 SmugMug: 2006 100 10prog
@@ -11,34 +11,61 @@ dSaaS>Virtualizacja>IaaS>PaaS> SaaS
 IaaS dzieli sie na CaaS
 Citrix jest kluczowym graczem
 RackspaceCloud to IaaS  (256mb to 16GB RAM) |Brak SLA dla SERVERS
-REST (Representational State Transfer) NIE wymaga nag³ówka HTTP
+REST (Representational State Transfer) NIE wymaga nagÅ‚Ã³wka HTTP
 CDN(Content Delivery Network) - Vtravelled.com
-EBS - 750MB za ma³o
-Ile trybów wykonañobs³uguje sprzêt w warstwie ISA? 2
+EBS - 750MB za maÅ‚o
+Ile trybÃ³w wykonaÅ„obsÅ‚uguje sprzÄ™t w warstwie ISA? 2
 CloudWatch nie podaje informacji o: RAM
-W systemie plików HDFS: Funkcjonuj¹ tylko dowi¹zania
+W systemie plikÃ³w HDFS: FunkcjonujÄ… tylko dowiÄ…zania
 Servlet startuje po web.xml
 VMM- live migration (Hypervisor - wirtual maszine monitor) | najlepsze QEMU
-PUE - wspó³czynnik energetyczny okreœlaj¹cy wydajnoœæ centrum danych
-Fault Tolerance to: Projekt który utrzymuje system sprawnym przez ca³y czas
-Braver: dostêpnoœci,spójnoœci danych i tolerancji na partycjê sieci
-Strategii planowania pojemnoœci: JIT JIC JTL     \\| nie nale¿y JIB 
+PUE - wspÃ³Å‚czynnik energetyczny okreÅ›lajÄ…cy wydajnoÅ›Ä‡ centrum danych
+Fault Tolerance to: Projekt ktÃ³ry utrzymuje system sprawnym przez caÅ‚y czas
+Braver: dostÄ™pnoÅ›ci,spÃ³jnoÅ›ci danych i tolerancji na partycjÄ™ sieci
+Strategii planowania pojemnoÅ›ci: JIT JIC JTL     \\| nie naleÅ¼y JIB 
 Mashup: Czysty po stronie klienta
 G.ho.st nie daje pulpitu 
-Medotami ¿¹dañ nie s¹: SEND I CONTENT
-HMURY: publiczne,spo³ecznoœciowe (Community{Wspólnotowe} Cloud),hybrydowe,prywatne
+Medotami Å¼Ä…daÅ„ nie sÄ…: SEND I CONTENT
+HMURY: publiczne,spoÅ‚ecznoÅ›ciowe (Community{WspÃ³lnotowe} Cloud),hybrydowe,prywatne
 BCM: Business Continuity Management
 Testy Javy w programie: JUnit
 Amazon Elastic Block Store to: dodatkowy wolumin widoczny w instancji EC2
-JSONP pomaga w rozwi¹zaniu problemu: CORS
+JSONP pomaga w rozwiÄ…zaniu problemu: CORS
 ACID =  atomicity, consistency, isolation, durability
 SOA = Service oriented architecture
-dSaaS (Data-Storage-as-a-Service): zapewnia magazynowanie, w³¹czaj¹c w to wymagania pasma
-CORBA to : Zbiór standardów dla œródprogramów do obs³ugi architektur obiektów rozproszonych
+dSaaS (Data-Storage-as-a-Service): zapewnia magazynowanie, wÅ‚Ä…czajÄ…c w to wymagania pasma
+CORBA to : ZbiÃ³r standardÃ³w dla Å›rÃ³dprogramÃ³w do obsÅ‚ugi architektur obiektÃ³w rozproszonych
 
+ Hi
 
-Do us³ug Amazon zwi¹zanych z chmur¹ nie nale¿y:
-a)SimpleDB
-b)CloudFront 
-c)SimpleFile32
-d)Simple Storage Service
+This GPS fix worked in my F5. It comes from DOOGEE support.
+
+Enter Engineering menu (Mobileuncle Tools or *#*#3646633#*#)
+
+Select Engineering mode for MTK 
+
+Select YGPS -> Information -> and tap on 'AGPS restart' (press once and you will see nothing)
+
+Exit YGPS and select LocationBasedService. 
+
+Select AGPS -> Enable A-GPS 
+
+Select GPS 
+
+Select FULL 
+
+Tap on Ref Position and see if some location datas are present: enter your current position (Lat,Long) if it's empty. Select ok.
+
+Let the GPS start by tapping on GPS (OFF). It will become 'ON' and will procede with fixing the position
+
+Tap on GPS (ON), it will become OFF (Leave it ON at least for three minutes then OFF)
+
+Select HOT instead of FULL
+
+Enter Ref Position and tap 'Apply Last Position'. (It will apply your current position)
+
+Reboot
+
+Install GPS Status & Toolbox and see if it fixes satellites easily 
+
+I hope it works for you
